@@ -8,7 +8,7 @@ def upload_folder():
     # GitHub authentication
     username = "PROX-GOD"
     email = "preshakbhattarai534@gmail.com"
-    token = "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"
+    token = ""
 
     # API endpoint
     url = f"https://api.github.com/repos/{username}/{repo_name}/contents/"
